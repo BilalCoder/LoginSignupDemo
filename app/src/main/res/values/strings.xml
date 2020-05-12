@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginSignupDemo</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">9Uqmlcksr8oa2DDorCJ0gUhVFyiBpXGhe89wmXKY</string>
+    <string name="back4app_client_key">jQ5iUPztC7TeFdWFYH7JFjg94rGOX6VfkjmZLaEB</string>
+</resources>
